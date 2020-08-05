@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Live Interaction</string>
+    <string name="agora_app_id">APP_ID</string>
+    <string name="hint_enter_cmt">Enter your comment</string>
+    <string name="send_txt">Send</string>
+    <string name="broadcaster_txt">Broadcaster</string>
+    <string name="audience_txt">Audience</string>
+    <string name="stream_name">Anshul ki baate</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="join_stream">Join Live stream</string>
+</resources>

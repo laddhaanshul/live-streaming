@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053832285715334312",
+    "firebase_url": "https://fir-e2a05.firebaseio.com",
+    "project_id": "fir-e2a05",
+    "storage_bucket": "fir-e2a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10223242323325352532398888276526335464363223574312:android:c5ceab2a254dgsdg467fjfhffhfh5fljdfjgo23e812dd",
+        "android_client_info": {
+          "package_name": "com.laddha.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098888574312-440av0jerlbc7tciob3l1abhgiugfwwtttweufgweifiweu4te9rpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ttruy999gR4-Q4pFz0Was83iufiusdhfesafgusrreedh229hJ59cKmWElilkd0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098888574312-440av0jerlbc7tciob3lsdufhoigirjshfgthrtteherh1abhu4te9rpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

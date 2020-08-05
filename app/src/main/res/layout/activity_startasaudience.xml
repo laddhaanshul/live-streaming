@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_centerInParent="true">
+            <EditText
+                android:id="@+id/channel_name"
+                android:layout_width="match_parent"
+                android:text="@string/stream_name"
+                android:enabled="false"
+                android:layout_height="wrap_content"/>
+            <EditText
+                android:id="@+id/audience_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/name_hint"/>
+            <Button
+                android:id="@+id/join_live_stream"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/join_stream"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+    </RelativeLayout>
