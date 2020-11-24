@@ -13,8 +13,4 @@ Steps for whole setup:-
 Enjoy!!
 
 
-For IT solutions please contact us on
-www.alluretechsolutions.com
-
-
 
